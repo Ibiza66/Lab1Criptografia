@@ -1,8 +1,8 @@
 # Laboratorio 1 - Criptografía y Seguridad en Redes
 
 ## Descripción
-Repositorio del laboratorio 1, incluyendo:
-- informe en LaTeX y PDF
+Repositorio del Laboratorio 1, incluyendo:
+- informe en PDF y LaTeX
 - código en Python
 - capturas de evidencia
 
@@ -14,3 +14,5 @@ Repositorio del laboratorio 1, incluyendo:
 ## Autora
 Constanza Alegría Ulloa
 
+## Repositorio
+Este repositorio contiene el desarrollo del laboratorio, su documentación y las evidencias utilizadas en el informe.
